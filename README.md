@@ -130,4 +130,7 @@ The postgres instance running inside a container can be accessed and SQL queries
     # IF prompt asks for password - enter "password" without quotes.
     select * from user_entity;
     ```
-   
+
+   ### git repo fetched from https://github.com/monisyousuf/youtube-tutorials/tree/main
+
+   thank you :)
